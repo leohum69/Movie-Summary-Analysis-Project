@@ -23,19 +23,6 @@ This project provides a Movie Summary Analyzer with a graphical user interface (
 
 - Python 3.x
 - Libraries: `tkinter`, `numpy`, `pandas`, `scikit-learn`, `nltk`, `scipy`, `gtts`, `deep_translator`, `tqdm`
-- Pre-trained model files in a `models/` directory (see `App.py` for expected filenames).
-
-## Usage
-
-1. Install required libraries:
-   ```
-   pip install -r requirements.txt
-   ```
-2. Ensure the `models/` directory contains the necessary `.pkl` files.
-3. Run the application:
-   ```
-   python App.py
-   ```
 
 ## Authors
 
