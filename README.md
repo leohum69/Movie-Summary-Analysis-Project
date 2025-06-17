@@ -39,5 +39,5 @@ This project provides a Movie Summary Analyzer with a graphical user interface (
 
 ## Authors
 
-- 22i-1749
-- 22i-0518
+- Mirza Humayun Masood
+- Umer Farooq
